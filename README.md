@@ -17,8 +17,8 @@
 ## Example
 
 ```bash
-$ ./ComputeSIDFromServiceName -s "MSSQLSERVER"
-S-1-5-80-1000-1000-1000-1000-1000
+$ ./ComputeSIDFromServiceName --service-name Podalirius
+S-1-5-80-3770745066-2942035328-3156452616-3958868927-3920104677
 ```
 
 ## Usage
